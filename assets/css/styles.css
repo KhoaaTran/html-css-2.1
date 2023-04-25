@@ -149,7 +149,7 @@ a {
     object-fit: cover;
 }
 
-.hero .get-started {
+.hero .started {
     margin-top: 52px;
 }
 
@@ -376,7 +376,7 @@ a {
     color: #767e7e;
 }
 
-.course-top span {
+.course-top .view {
     font-weight: 700;
     font-size: 1.4rem;
     line-height: 1.5;
@@ -384,7 +384,7 @@ a {
     margin-top: 140px;
 }
 
-.course-top span:hover {
+.course-top .view:hover {
     text-decoration: underline;
 }
 
